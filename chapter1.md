@@ -12,7 +12,7 @@
 | ![Foto](assets/images/perfil.jpg) | Fabricio Jofred Lozano Quispe | [Código] | [Carrera] | [Redactar párrafo resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo]           |
 | ![Foto](assets/images/chapter1/Perfil_Gabriel.jpeg) | Gabriel Augusto Peñaranda Caldas | U202210836 | Ingeniería de Software | Me apasiona la infraestructura tecnológica, me destaaco en conocimiento de sistemas operativos, Cloud infrastructure y cloud architecture, manejo bien el lenguaje de JS para frontend y backend           |
 | ![Foto](assets/images/perfil.jpg) | Maria Jose Pezo Castilla | [Código] | [Carrera] | [Redactar párrafo resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo]           |
-| ![Foto](assets/images/perfil.jpg) | Rodrigo Matias Vite Celis | [Código] | [Carrera] | [Redactar párrafo resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo]           |
+| ![Foto](assets/images/chapter1/Perfil_Rodrigo.jpeg) | Rodrigo Matias Vite Celis | U202414356 | Ingeniería de Software | Me apasiona la infraestructura cloud y los sistemas operativos. Destaco en arquitectura en la nube y cuento con buen dominio de Javascript tanto para frontend como para backend, python y c++.          |
 
 
 ## 1.2. Solution Profile
