@@ -6,10 +6,27 @@
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto | Nombres y Apellidos | Código | Carrera | Conocimientos y Habilidades |
-| :---: | :--- | :--- | :--- | :--- |
-| ![Foto](assets/images/perfil.jpg) | [Nombres y Apellidos] | [Código] | [Carrera] | [Redactar párrafo resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo] |
-| ![Foto](assets/images/perfil.jpg) | [Nombres y Apellidos] | [Código] | [Carrera] | [Redactar párrafo resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo] |
-| ![Foto](assets/images/perfil.jpg) | [Nombres y Apellidos] | [Código] | [Carrera] | [Redactar párrafo resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo] |
-| ![Foto](assets/images/perfil.jpg) | [Nombres y Apellidos] | [Código] | [Carrera] | [Redactar párrafo resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo] |
-| ![Foto](assets/images/perfil.jpg) | [Nombres y Apellidos] | [Código] | [Carrera] | [Redactar párrafo resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo] |
+| Foto                              | Nombres y Apellidos   | Código   | Carrera   | Conocimientos y Habilidades                                                                                                    |
+| :-------------------------------: | :-------------------- | :------- | :-------- | :----------------------------------------------------------------------------------------------------------------------------- |
+| ![Foto](assets/images/perfil.jpg) | [Nombres y Apellidos] | [Código] | [Carrera] | [Redactar párrafo resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo]           |
+| ![Foto](assets/images/perfil.jpg) | [Nombres y Apellidos] | [Código] | [Carrera] | [Redactar párrafo resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo]           |
+| ![Foto](assets/images/perfil.jpg) | [Nombres y Apellidos] | [Código] | [Carrera] | [Redactar párrafo resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo]           |
+| ![Foto](assets/images/perfil.jpg) | [Nombres y Apellidos] | [Código] | [Carrera] | [Redactar párrafo resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo]           |
+| ![Foto](assets/images/perfil.jpg) | [Nombres y Apellidos] | [Código] | [Carrera] | [Redactar párrafo resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo]           |
+
+
+## 1.2. Solution Profile
+
+### 1.2.1. Antecedentes y problemática
+
+### 1.2.2. Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements
+
+#### 1.2.2.2. Lean UX Assumptions
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+#### 1.2.2.4. Lean UX Canvas
+
+## 1.3. Segmentos objetivo
