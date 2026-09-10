@@ -129,4 +129,13 @@ Creemos que lograremos un bajo costo de adquisición por el efecto recomendació
 Creemos que lograremos mantener la viabilidad competitiva sin intermediar transacciones si los usuarios logran negociar los servicios logísticos de forma rápida y segura con los Canales de contacto directo (Chat/Llamada) dentro de la app.
 #### 1.2.2.4. Lean UX Canvas
 
+En el siguiente gráfico se consolida el proceso estratégico a través del Lean UX Canvas de Trazza. Este lienzo resume visualmente el problema central, los beneficios esperados para nuestros segmentos objetivo (transportistas y emprendedores), las soluciones propuestas y las hipótesis fundamentales del proyecto.
+
+<div align="center">
+  <img src="assets/images/chapter1/TrazzaLeanUXCanvas.png" alt="Lean UX Canvas de Trazza">
+  <br>
+  <em>Figura: Lean UX Canvas de Trazza. Elaboración propia.</em>
+</div>
+
+> [Lean UX Canvas de Trazza desde la plataforma Canva](https://canva.link/41xql8grxyjm2m8).
 ## 1.3. Segmentos objetivo
