@@ -30,7 +30,7 @@ Para este análisis se han identificado tres competidores directos: **CargaYa** 
 
 A partir del análisis competitivo, Trazza plantea las siguientes estrategias y tácticas preliminares para afrontar el panorama identificado:
 
-* **Frente a la fragmentación del mercado (oportunidad):** Priorizar en el MVP el registro rápido y la publicación de cargas/espacio disponible, de modo que transportistas informales de pequeñas flotas —que hoy no usan ninguna herramienta tecnológica— puedan adoptar Trazza sin fricción, capturando así al más del 80% del mercado que actualmente opera de forma manual.
+* **Frente a la fragmentación del mercado (oportunidad):** Priorizar en el MVP el registro rápido y la publicación de cargas/espacio disponible, de modo que transportistas informales de pequeñas flotas, que hoy no usan ninguna herramienta tecnológica, puedan adoptar Trazza sin fricción, capturando así al más del 80% del mercado que actualmente opera de forma manual.
 
 * **Frente a la validación de confianza de CargaYa (fortaleza del competidor):** Aunque en el MVP no se contempla la verificación documentaria con RENIEC/SUNAT como característica prioritaria, se incorporará un sistema de calificación entre usuarios (transportistas y emprendedores) desde etapas tempranas, apoyado en el monitoreo IoT/GPS como mecanismo adicional de confianza objetiva sobre el estado y ubicación de la carga.
 
@@ -40,3 +40,91 @@ A partir del análisis competitivo, Trazza plantea las siguientes estrategias y 
 
 * **Frente a la amenaza de expansión regional (FleteRetorno, Fretebras):** Acelerar el piloto cerrado en Lima con un grupo real de transportistas y emprendedores (según lo definido en el Lean UX Canvas) para validar el ajuste producto-mercado local antes de que actores regionales con mayor respaldo financiero consoliden su entrada al mercado peruano, priorizando alianzas con gremios de transporte locales como barrera de entrada.
 
+## 2.2. Entrevistas.
+### 2.2.1. Diseño de entrevistas
+
+Las preguntas fueron diseñadas siguiendo buenas prácticas de entrevistas semiestructuradas: se parte de preguntas principales, abiertas y no sesgadas, orientadas a comprender comportamientos actuales, frustraciones y disposición a adoptar una solución tecnológica; y se complementan con preguntas que permiten recolectar la información demográfica y conductual necesaria para construir los arquetipos (edad, distrito, ocupación, nivel de digitalización, dispositivos y canales digitales de preferencia).
+
+**Primer segmento: Transportistas de Carga Terrestre**
+
+A continuación, se presentan las preguntas dirigidas a conductores independientes y dueños de pequeñas o medianas flotas que actualmente enfrentan la pérdida de rentabilidad asociada a los fletes de retorno vacíos.
+
+**Preguntas principales**
+
+1. ¿Con qué frecuencia regresas de un viaje con el camión vacío?
+2. ¿Qué tan preocupante es para ti la pérdida económica que representa un flete de retorno vacío?
+3. ¿Qué haces actualmente para conseguir carga para tu viaje de regreso?
+4. ¿Cómo consigues normalmente tus contactos (clientes, vendedores, compradores) hoy en día?
+5. ¿Confiarías en un sistema que te sugiera automáticamente qué carga tomar en tu ruta de retorno?
+6. ¿Qué tan importante es para ti poder negociar el pago directamente con el cliente, fuera de una aplicación?
+7. ¿Qué tan útil sería contar con un sistema que muestre la ubicación y el estado de la carga durante el trayecto?
+8. ¿Qué te generaría más confianza para aceptar una carga ofrecida por una aplicación: la calificación del cliente, el monitoreo en tiempo real, o ambos?
+9. ¿Qué tan dispuesto estarías a esperar unos minutos a que la aplicación te consiga una carga antes de salir con el camión vacío?
+10. ¿Qué es lo que más te frustra del proceso actual de conseguir fletes de retorno?
+11. ¿Usarías una aplicación móvil para publicar tu disponibilidad y recibir sugerencias de carga?
+12. ¿Recomendarías una herramienta así a otros transportistas o dueños de flota que conozcas?
+
+**Preguntas complementarias**
+
+13. ¿Qué edad tienes?
+14. ¿En qué distrito de Lima vives o tienes tu base de operaciones?
+15. ¿Eres transportista independiente o dueño de una flota? ¿De cuántos vehículos?
+16. ¿Qué tipo de vehículo(s) manejas o administras?
+17. ¿Qué tan seguido usas aplicaciones móviles en tu día a día (WhatsApp, Maps, redes sociales)?
+18. ¿Prefieres usar el celular o la computadora para gestionar tu trabajo?
+
+**Segundo segmento: Pequeños y Medianos Emprendedores**
+
+A continuación, se presentan las preguntas dirigidas a dueños de negocios pyme (comerciales, manufactureros o agrícolas) que requieren trasladar mercadería de forma frecuente sin contar con contratos fijos con grandes empresas logísticas.
+
+**Preguntas principales**
+
+1. ¿Con qué frecuencia necesitas enviar mercadería o insumos dentro de Lima?
+2. ¿Qué tan preocupante es actualmente para ti el costo del transporte de tu mercadería?
+3. ¿Cómo consigues transporte para tus envíos en la actualidad?
+4. ¿Cuánto tiempo te toma normalmente encontrar un transportista disponible?
+5. ¿Qué tan útil sería para tu negocio encontrar transportistas con espacio disponible a un menor costo?
+6. ¿Qué tan importante es para ti poder ver en tiempo real dónde está tu mercadería?
+7. ¿Confiarías en una aplicación que te emparejara automáticamente con un transportista disponible?
+8. ¿Qué tan dispuesto estarías a coordinar y pagar el servicio directamente con el transportista, fuera de la aplicación?
+9. ¿Qué es lo más importante para ti al elegir un transportista: precio, rapidez, seguridad de la carga, u otro?
+10. ¿Qué te generaría más confianza para usar un transportista sugerido por una aplicación en lugar de uno de tu confianza habitual?
+11. ¿Usarías una aplicación móvil o web para publicar tu necesidad de envío y recibir ofertas de transporte?
+12. ¿Recomendarías esta herramienta a otros emprendedores o negocios similares al tuyo?
+
+**Preguntas complementarias**
+
+13. ¿Qué edad tienes?
+14. ¿En qué distrito se ubica tu negocio?
+15. ¿A qué rubro se dedica tu negocio? (comercial, manufactura, agrícola, otro)
+16. ¿Cuántos envíos realizas en promedio al mes?
+17. ¿Qué tan seguido gestionas tu negocio a través de canales digitales (redes sociales, e-commerce, pasarelas de pago)?
+18. ¿Prefieres usar el celular o la computadora para gestionar tus pedidos y envíos?
+
+**Segmento 1: Transportistas de Carga Terrestre**
+
+| # | Nombres y Apellidos | Edad | Distrito | Screenshot | URL del video (Microsoft Stream) | Inicio | Duración |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | [Nombre Apellido] | [Edad] | [Distrito] | *(captura del video)* | [URL privado] | [hh:mm:ss] | [mm:ss] |
+| 2 | [Nombre Apellido] | [Edad] | [Distrito] | *(captura del video)* | [URL privado] | [hh:mm:ss] | [mm:ss] |
+| 3 | [Nombre Apellido] | [Edad] | [Distrito] | *(captura del video)* | [URL privado] | [hh:mm:ss] | [mm:ss] |
+
+*Resumen de entrevista 1:* 
+
+*Resumen de entrevista 2:*
+
+*Resumen de entrevista 3:*
+
+**Segmento 2: Pequeños y Medianos Emprendedores**
+
+| # | Nombres y Apellidos | Edad | Distrito | Screenshot | URL del video (Microsoft Stream) | Inicio | Duración |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | [Nombre Apellido] | [Edad] | [Distrito] | *(captura del video)* | [URL privado] | [hh:mm:ss] | [mm:ss] |
+| 2 | [Nombre Apellido] | [Edad] | [Distrito] | *(captura del video)* | [URL privado] | [hh:mm:ss] | [mm:ss] |
+| 3 | [Nombre Apellido] | [Edad] | [Distrito] | *(captura del video)* | [URL privado] | [hh:mm:ss] | [mm:ss] |
+
+*Resumen de entrevista 1:* 
+
+*Resumen de entrevista 2:* 
+
+*Resumen de entrevista 3:*
