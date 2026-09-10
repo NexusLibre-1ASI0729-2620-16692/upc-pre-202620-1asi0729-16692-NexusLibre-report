@@ -25,3 +25,18 @@ Para este análisis se han identificado tres competidores directos: **CargaYa** 
 | Debilidades | Marca nueva sin reconocimiento en el mercado limeño; aún no cuenta con historial de "matches" exitosos. | Cobra comisión creciente a los emprendedores conforme aumenta el uso. | Poca diferenciación tecnológica frente a nuevos entrantes con IA. | Actualmente enfocada en el mercado chileno; su expansión a Perú no está consolidada. |
 | Oportunidades | Alta fragmentación del sector (más del 80% son micro y pequeñas flotas) sin una solución tecnológica unificada dominante en Lima. | Ampliar su base de transportistas verificados a más rutas y ciudades. | Incorporar inteligencia artificial a su motor de cotizaciones. | Expandir su modelo especializado en retorno hacia el mercado peruano, replicando su éxito en Chile. |
 | Amenazas | Entrada de actores regionales ya consolidados (Fretebras, FleteRetorno) al mercado peruano. | Presión de plataformas con IA de emparejamiento más eficiente. | Pérdida de cuota de mercado frente a plataformas con mejor experiencia de usuario. | Competencia de actores locales con mejor conocimiento del contexto regulatorio peruano. |
+
+### 2.1.2. Estrategias y tácticas frente a competidores.
+
+A partir del análisis competitivo, Trazza plantea las siguientes estrategias y tácticas preliminares para afrontar el panorama identificado:
+
+* **Frente a la fragmentación del mercado (oportunidad):** Priorizar en el MVP el registro rápido y la publicación de cargas/espacio disponible, de modo que transportistas informales de pequeñas flotas —que hoy no usan ninguna herramienta tecnológica— puedan adoptar Trazza sin fricción, capturando así al más del 80% del mercado que actualmente opera de forma manual.
+
+* **Frente a la validación de confianza de CargaYa (fortaleza del competidor):** Aunque en el MVP no se contempla la verificación documentaria con RENIEC/SUNAT como característica prioritaria, se incorporará un sistema de calificación entre usuarios (transportistas y emprendedores) desde etapas tempranas, apoyado en el monitoreo IoT/GPS como mecanismo adicional de confianza objetiva sobre el estado y ubicación de la carga.
+
+* **Frente al modelo de comisiones crecientes (debilidad detectada en CargaYa):** Mantener como diferenciador que Trazza no intermedia pagos ni cobra comisión por transacción, actuando únicamente como facilitador del contacto, lo que reduce la barrera de adopción para emprendedores que hoy evitan contratos logísticos corporativos por su costo.
+
+* **Frente al reconocimiento de marca de MiCarga (primer movimiento):** Apalancar el motor de emparejamiento con IA y los algoritmos de optimización de ruteo (Dijkstra, TSP) como argumento de diferenciación tecnológica, comunicando de forma directa el beneficio cuantificable (mitigación de hasta 30% de pérdidas operativas) frente a plataformas que solo ofrecen publicación y cotización manual de cargas.
+
+* **Frente a la amenaza de expansión regional (FleteRetorno, Fretebras):** Acelerar el piloto cerrado en Lima con un grupo real de transportistas y emprendedores (según lo definido en el Lean UX Canvas) para validar el ajuste producto-mercado local antes de que actores regionales con mayor respaldo financiero consoliden su entrada al mercado peruano, priorizando alianzas con gremios de transporte locales como barrera de entrada.
+
