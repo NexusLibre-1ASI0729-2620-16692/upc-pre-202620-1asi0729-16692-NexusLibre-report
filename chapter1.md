@@ -84,10 +84,49 @@ A nivel de escalabilidad, Trazza contempla la integración de ecosistemas IoT (I
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+El estado actual del sistema logístico de transporte de carga en Lima se ha enfocado principalmente en transportistas independientes y pequeños emprendedores que coordinan despachos de forma manual, padeciendo de alta complejidad logística y retornos con fletes vacíos. Lo que los servicios existentes no abordan es la falta de un ecosistema tecnológico unificado y automatizado que conecte la demanda urgente con la capacidad ociosa de los vehículos en tiempo real. Nuestro producto (Trazza) abordará esta brecha mediante un motor de emparejamiento inteligente basado en IA y algoritmos de ruteo que conecte la oferta y la demanda sin intermediación de pagos. Nuestro enfoque inicial será el sector de transportistas independientes, dueños de flotas y pymes en el departamento de Lima. Sabremos que tenemos éxito cuando veamos una alta tasa de emparejamientos exitosos, la reducción del tiempo para asignar camiones y la recuperación del 30% de rentabilidad operativa en nuestro público objetivo.
+
 #### 1.2.2.2. Lean UX Assumptions
+
+**1. Business Assumptions**
+* Creemos que existe una alta viabilidad en el mercado local porque la informalidad logística actual genera pérdidas que los transportistas están desesperados por mitigar.
+* Creemos que nuestra posición en el mercado será competitiva al no cobrar comisiones por transacciones, actuando puramente como un facilitador de contacto.
+* Creemos que lograremos adquirir a nuestros usuarios mediante alianzas estratégicas con gremios de transporte y marketing digital enfocado en emprendedores.
+
+**2. Business Outcome Assumptions**
+* Creemos que el éxito de la empresa se indicará por una alta tasa de usuarios activos diarios (DAU) buscando rutas o cargas.
+* Creemos que el éxito se reflejará en un aumento sostenido en la cantidad de "matches" logísticos completados mensualmente a través de la plataforma.
+* Creemos que evidenciaremos éxito al lograr un bajo costo de adquisición de clientes (CAC) gracias al efecto red ("boca a boca").
+
+**3. User Assumptions**
+* Creemos que nuestros usuarios principales son dueños de flotas y transportistas independientes que buscan maximizar la rentabilidad de cada galón de combustible.
+* Creemos que nuestro otro segmento son emprendedores y dueños de negocios pyme que necesitan envíos ágiles y no tienen contratos fijos con empresas grandes de logística.
+* Creemos que ambos usuarios operan principalmente desde dispositivos móviles durante su jornada laboral y en entornos de conectividad variable.
+
+**4. User Outcome and Benefit Assumptions**
+* Creemos que los transportistas desean lograr asegurar carga para sus rutas de retorno, obteniendo el valor de mitigar hasta un 30% de pérdidas económicas.
+* Creemos que los emprendedores desean encontrar transporte confiable rápidamente, obteniendo el valor de reducir sus costos de envío y tiempos de espera.
+* Creemos que ambos usuarios desean tener garantías de seguridad, obteniendo la tranquilidad de saber dónde está la mercancía en todo momento.
+
+**5. Feature Assumptions**
+* Creemos que necesitamos un **Motor de emparejamiento con IA** para conectar automáticamente la carga disponible con el camión ideal.
+* Creemos que necesitamos **Algoritmos de optimización de ruteo (Dijkstra, TSP)** para calcular las distancias y los trayectos más eficientes.
+* Creemos que necesitamos un **Sistema de monitoreo IoT/GPS** para garantizar la trazabilidad de la carga en tiempo real.
+* Creemos que necesitamos **Canales de contacto directo (Chat/Llamada)** dentro de la app para que los usuarios negocien los pagos de forma externa sin fricción.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+**Hipótesis 1 (Basada en el Motor de emparejamiento con IA)**
+Creemos que lograremos un aumento sostenido en los matches logísticos completados mensualmente si los transportistas independientes y dueños de flotas logran mitigar sus pérdidas económicas en los viajes de retorno con el Motor de emparejamiento con IA.
+
+**Hipótesis 2 (Basada en Algoritmos de optimización de ruteo)**
+Creemos que lograremos una alta tasa de usuarios activos diarios (DAU) si los emprendedores pymes logran reducir sus costos de envío y tiempos de espera con los Algoritmos de optimización de ruteo (Dijkstra, TSP).
+
+**Hipótesis 3 (Basada en el Sistema de monitoreo IoT/GPS)**
+Creemos que lograremos un bajo costo de adquisición por el efecto recomendación si ambos segmentos de usuarios logran la tranquilidad de saber dónde está su mercancía con el Sistema de monitoreo IoT/GPS.
+
+**Hipótesis 4 (Basada en Canales de contacto directo)**
+Creemos que lograremos mantener la viabilidad competitiva sin intermediar transacciones si los usuarios logran negociar los servicios logísticos de forma rápida y segura con los Canales de contacto directo (Chat/Llamada) dentro de la app.
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo
