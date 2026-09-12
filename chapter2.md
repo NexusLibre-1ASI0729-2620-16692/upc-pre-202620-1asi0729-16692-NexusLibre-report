@@ -107,7 +107,7 @@ A continuación, se presentan las preguntas dirigidas a dueños de negocios pyme
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Nombre Apellido] | [Edad] | [Distrito] | *(captura del video)* | [URL privado] | [hh:mm:ss] | [mm:ss] |
 | 2 | [Nombre Apellido] | [Edad] | [Distrito] | *(captura del video)* | [URL privado] | [hh:mm:ss] | [mm:ss] |
-| 3 | Ariana Escalante | 24 años | San Juan de Lurigancho |  | [Link del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202414356_upc_edu_pe/IQBiJ8z288igQYB9s0AoTDccAQhiyBpasRQQmkhn2YWMsvY?e=SQi1l2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 00:00:00 | 05:48 |
+| 3 | Ariana Escalante | 24 años | San Juan de Lurigancho | ![Foto](assets/images/chapter2/captura-entrevista-tres.jpeg) | [Link del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202414356_upc_edu_pe/IQBiJ8z288igQYB9s0AoTDccAQhiyBpasRQQmkhn2YWMsvY?e=SQi1l2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 00:00:00 | 05:48 |
 
 *Resumen de entrevista 1:* 
 
