@@ -107,13 +107,14 @@ A continuación, se presentan las preguntas dirigidas a dueños de negocios pyme
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Nombre Apellido] | [Edad] | [Distrito] | *(captura del video)* | [URL privado] | [hh:mm:ss] | [mm:ss] |
 | 2 | [Nombre Apellido] | [Edad] | [Distrito] | *(captura del video)* | [URL privado] | [hh:mm:ss] | [mm:ss] |
-| 3 | [Nombre Apellido] | [Edad] | [Distrito] | *(captura del video)* | [URL privado] | [hh:mm:ss] | [mm:ss] |
+| 3 | Ariana Escalante | 24 años | San Juan de Lurigancho |  | [Link del video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202414356_upc_edu_pe/IQBiJ8z288igQYB9s0AoTDccAQhiyBpasRQQmkhn2YWMsvY?e=SQi1l2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | 00:00:00 | 05:48 |
 
 *Resumen de entrevista 1:* 
 
 *Resumen de entrevista 2:*
 
-*Resumen de entrevista 3:*
+*Resumen de entrevista 3:* El entrevistado es un transportista independiente de 24 años radicado en San Juan de Lurigancho, propietario y conductor de un furgón liviano de 3.5 a 4 toneladas, quien gestiona la totalidad de sus operaciones mediante el teléfono móvil y aplicaciones como WhatsApp, redes sociales y plataformas de navegación. Actualmente, cerca del 50% de sus viajes de regreso los realiza con el camión vacío, una situación crítica que absorbe casi todo su margen de ganancia debido a los costos de combustible, peajes y las cuotas de financiamiento de su unidad. Su método actual para conseguir fletes de retorno depende de la búsqueda informal en grupos digitales y contactos con choferes experimentados, un proceso frustrante marcado por comisiones abusivas de intermediarios, incertidumbre en los cobros y cierta desconfianza hacia su perfil por su corta edad.
+Ante la propuesta de una solución tecnológica, el conductor muestra una disposición inmediata a adoptar una aplicación móvil para publicar su disponibilidad y recibir sugerencias automáticas de carga, estando dispuesto a esperar entre 30 y 45 minutos en el punto de entrega si eso le asegura un viaje de vuelta rentable. Para operar con total seguridad, considera indispensable la combinación de un sistema de calificación de clientes verificados y el monitoreo del viaje en tiempo real, ya que esto último reduce las llamadas distractoras al volante y respalda su trabajo ante cualquier reclamo. Finalmente, se muestra flexible respecto a la gestión de pagos priorizando la certeza de cobro frente a imprevistos y afirma que recomendaría ampliamente la herramienta a colegas jóvenes del gremio para modernizar y transparentar el rubro logístico.
 
 **Segmento 2: Pequeños y Medianos Emprendedores**
 
