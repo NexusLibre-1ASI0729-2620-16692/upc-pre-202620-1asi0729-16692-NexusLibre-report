@@ -9,10 +9,10 @@
 | Foto                              | Nombres y Apellidos   | Código   | Carrera   | Conocimientos y Habilidades                                                                                                    |
 | :-------------------------------: | :-------------------- | :------- | :-------- | :----------------------------------------------------------------------------------------------------------------------------- |
 | ![Foto](assets/images/perfil.jpg) | Emanuel Renato Checalla Apaza | [Código] | [Carrera] | [Redactar párrafo resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo]           |
-| ![Foto](assets/images/chapter1/Perfil_Fabricio.jpeg) | Fabricio Jofred Lozano Quispe | U202412903 | Ingeniería de Software | Me apasiona la programación y me destaco en lógica de programación y resolución de problemas. Cuento con conocimientos en C++, Java y Python, además de conocimientos en infraestructura cloud y sistemas operativos. Tengo interés en seguir fortaleciendo mis habilidades en el desarrollo de software, aprender nuevas tecnologías y afrontar retos que me permitan aportar al equipo.           |
-| ![Foto](assets/images/chapter1/Perfil_Gabriel.jpeg) | Gabriel Augusto Peñaranda Caldas | U202210836 | Ingeniería de Software | Me apasiona la infraestructura tecnológica, me destaaco en conocimiento de sistemas operativos, Cloud infrastructure y cloud architecture, manejo bien el lenguaje de JS para frontend y backend           |
+| ![Foto](../assets/images/chapter1/Perfil_Fabricio.jpeg) | Fabricio Jofred Lozano Quispe | U202412903 | Ingeniería de Software | Me apasiona la programación y me destaco en lógica de programación y resolución de problemas. Cuento con conocimientos en C++, Java y Python, además de conocimientos en infraestructura cloud y sistemas operativos. Tengo interés en seguir fortaleciendo mis habilidades en el desarrollo de software, aprender nuevas tecnologías y afrontar retos que me permitan aportar al equipo.           |
+| ![Foto](../assets/images/chapter1/Perfil_Gabriel.jpeg) | Gabriel Augusto Peñaranda Caldas | U202210836 | Ingeniería de Software | Me apasiona la infraestructura tecnológica, me destaaco en conocimiento de sistemas operativos, Cloud infrastructure y cloud architecture, manejo bien el lenguaje de JS para frontend y backend           |
 | ![Foto](assets/images/perfil.jpg) | Maria Jose Pezo Castilla | [Código] | [Carrera] | [Redactar párrafo resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo]           |
-| ![Foto](assets/images/chapter1/Perfil_Rodrigo.jpeg) | Rodrigo Matias Vite Celis | U202414356 | Ingeniería de Software | Me apasiona la infraestructura cloud y los sistemas operativos. Destaco en arquitectura en la nube y cuento con buen dominio de Javascript tanto para frontend como para backend, python y c++.          |
+| ![Foto](../assets/images/chapter1/Perfil_Rodrigo.jpeg) | Rodrigo Matias Vite Celis | U202414356 | Ingeniería de Software | Me apasiona la infraestructura cloud y los sistemas operativos. Destaco en arquitectura en la nube y cuento con buen dominio de Javascript tanto para frontend como para backend, python y c++.          |
 
 
 ## 1.2. Solution Profile
@@ -132,7 +132,7 @@ Creemos que lograremos mantener la viabilidad competitiva sin intermediar transa
 En el siguiente gráfico se consolida el proceso estratégico a través del Lean UX Canvas de Trazza. Este lienzo resume visualmente el problema central, los beneficios esperados para nuestros segmentos objetivo (transportistas y emprendedores), las soluciones propuestas y las hipótesis fundamentales del proyecto.
 
 <div align="center">
-  <img src="assets/images/chapter1/TrazzaLeanUXCanvas.png" alt="Lean UX Canvas de Trazza">
+  <img src="../assets/images/chapter1/TrazzaLeanUXCanvas.png" alt="Lean UX Canvas de Trazza">
   <br>
   <em>Figura: Lean UX Canvas de Trazza. Elaboración propia.</em>
 </div>
