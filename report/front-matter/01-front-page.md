@@ -1,4 +1,4 @@
-<div align="center" style="color: black;">
+<div align="center">
 
 <img src="../../assets/images/introduction/UPC_logo.png" alt="Logo de la UPC" width="80">
 
@@ -31,23 +31,23 @@ Proyecto
   </tr>
   <tr style="border: none;">
     <td style="border: none; text-align: left; padding: 5px 25px;">[Código]</td>
-    <td style="border: none; text-align: left; padding: 5px 25px;">Emanuel Renato Checalla Apaza</td>
+    <td style="border: none; text-align: left; padding: 5px 25px;">Checalla Apaza, Emanuel Renato</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; text-align: left; padding: 5px 25px;">U202412903</td>
-    <td style="border: none; text-align: left; padding: 5px 25px;">Fabricio Jofred Lozano Quispe</td>
+    <td style="border: none; text-align: left; padding: 5px 25px;">Lozano Quispe, Fabricio Jofred</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; text-align: left; padding: 5px 25px;">U202210836</td>
-    <td style="border: none; text-align: left; padding: 5px 25px;">Gabriel Augusto Peñaranda Caldas</td>
+    <td style="border: none; text-align: left; padding: 5px 25px;">Peñaranda Caldas, Gabriel Augusto</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; text-align: left; padding: 5px 25px;">[Código]</td>
-    <td style="border: none; text-align: left; padding: 5px 25px;">Maria Jose Pezo Castilla</td>
+    <td style="border: none; text-align: left; padding: 5px 25px;">Pezo Castilla, Maria Jose</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; text-align: left; padding: 5px 25px;">U202414356</td>
-    <td style="border: none; text-align: left; padding: 5px 25px;">Rodrigo Matias Vite Celis</td>
+    <td style="border: none; text-align: left; padding: 5px 25px;">Vite Celis, Rodrigo Matias</td>
   </tr>
 </table>
 
